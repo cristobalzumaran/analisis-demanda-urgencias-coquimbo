@@ -1,0 +1,13 @@
+mes_num,total_atenciones,categoria_riesgo,diagnostico_cie10,condicion_egreso
+1,1200,C4,J20,alta_medica
+2,1300,C3,S01,alta_medica
+3,1500,C4,J06,alta_medica
+4,1700,C2,I10,traslado_hospital
+5,2100,C4,J20,alta_medica
+6,2500,C3,J06,alta_medica
+7,2800,C2,J20,alta_medica
+8,2600,C4,S01,alta_medica
+9,2300,C3,I10,alta_medica
+10,2000,C4,J06,alta_medica
+11,1800,C3,S01,alta_medica
+12,2200,C4,J20,alta_medica
