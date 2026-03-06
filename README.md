@@ -1,4 +1,4 @@
-# Análisis Predictivo de Demanda en Urgencias APS – Coquimbo
+# Análisis Predictivo de Demanda en Urgencias
 
 ## Propósito del Proyecto
 
