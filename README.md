@@ -2,7 +2,7 @@
 
 ## Propósito del Proyecto
 
-Este proyecto busca transformar registros de atenciones del sistema en herramientas de análisis y predicción para apoyar la toma de decisiones en la red de urgencias de Atención Primaria de Salud (APS) de la comuna de Coquimbo.
+Este proyecto busca transformar registros de atenciones del sistema en herramientas de análisis y predicción para apoyar la toma de decisiones en la red de urgencias de Atención Primaria de Salud (APS) en una comuna de la region de Coquibmo.
 
 El objetivo es evolucionar desde una gestión reactiva hacia una planificación proactiva basada en datos.
 
