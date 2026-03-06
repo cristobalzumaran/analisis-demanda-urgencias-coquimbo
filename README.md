@@ -48,6 +48,15 @@ Se utiliza regresión lineal con **scikit-learn** para proyectar la demanda futu
 
 ## Privacidad de Datos
 
+El dataset incluido en este repositorio es **sintético** y fue creado únicamente con fines demostrativos.
+
+Representa una simulación de atenciones de urgencia en APS y permite demostrar el flujo de trabajo de análisis de datos:
+
+- limpieza de datos
+- análisis de indicadores
+- modelamiento predictivo
+- visualización
+
 Este repositorio **no contiene datos reales de pacientes**.
 
 Se utiliza un dataset **sintético** para demostrar el funcionamiento del modelo respetando la normativa de protección de datos.
