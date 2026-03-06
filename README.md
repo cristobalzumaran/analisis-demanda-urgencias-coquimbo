@@ -1,1 +1,54 @@
+# Análisis Predictivo de Demanda en Urgencias APS – Coquimbo
+
+## Propósito del Proyecto
+
+Este proyecto busca transformar registros de atenciones del sistema  en herramientas de análisis y predicción para apoyar la toma de decisiones en la red de urgencias de Atención Primaria de Salud (APS) de la comuna de Coquimbo.
+
+El objetivo es evolucionar desde una gestión reactiva hacia una planificación proactiva basada en datos.
+
+---
+
+## Metodología
+
+El análisis se divide en tres etapas:
+
+### 1. ETL y Limpieza de Datos
+
+Procesamiento de registros  mediante Python para asegurar calidad y consistencia de los datos.
+
+### 2. Análisis de Indicadores
+
+Exploración de variables como:
+
+* horario
+* Diagnósticos (CIE-10)
+* Indicadores de resolutividad
+* Edad Paciente
+* Centro Atencion
+* Destino Alta
+* Fecha
+* Sexo
+* Estamento
+
+### 3. Modelamiento Predictivo
+
+Se utiliza regresión lineal con **scikit-learn** para proyectar la demanda futura de atenciones.
+
+---
+
+## Tecnologías utilizadas
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Jupyter Notebook
+
+---
+
+## Privacidad de Datos
+
+Este repositorio **no contiene datos reales de pacientes**.
+
+Se utiliza un dataset **sintético** para demostrar el funcionamiento del modelo respetando la normativa de protección de datos.
 
